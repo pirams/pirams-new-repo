@@ -1,2 +1,4 @@
 # pirams-new-repo
-Pirams first repository for github training
+Pirams first repository in github training
+
+this will go to btrium1 repo
